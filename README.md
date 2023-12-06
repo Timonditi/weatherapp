@@ -3,14 +3,20 @@ Welcome to the Weather App! This simple web application allows users to check th
 
 ## Table of Contents
 Features
+
 Getting Started
+
 Usage
+
 Dependencies
+
 License
 
 # Features
 Display current time and date.
+
 Show current weather information.
+
 Provide a 5-day weather forecast.
 
 # Getting Started
