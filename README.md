@@ -1,16 +1,7 @@
 # Weather App
 Welcome to the Weather App! This simple web application allows users to check the current time, date, and weather forecast for a specific location.
 
-## Table of Contents
-Features
-
-Getting Started
-
-Usage
-
-Dependencies
-
-License
+# Author : Timothy Odongo.
 
 # Features
 Display current time and date.
@@ -21,19 +12,25 @@ Provide a 5-day weather forecast.
 
 # Getting Started
 To use the Weather App, follow these steps:
+<ol>
+<li>Clone the repository to your local machine</li>
+<li>Open terminal command line then navigate to the root folder of the application.</li>
+<li>Open the index.html file in your preferred web browser.</li>
+</ol>
 
-Clone the repository to your local machine:
+# BDD
+Below is the Landing page 
 
-git clone https://github.com/Timonditi/weatherapp
+<img src="src/assets/lP.jpg" alt="Github Search" width="400"/>
 
-Open the index.html file in your preferred web browser.
+# Live link: https://timonditi.github.io/weatherapp/
 
 # Usage
-The Weather App will display the current time, date, and weather information.
-
-The current weather icon and temperature are shown for the current day.
-
-A 5-day weather forecast is displayed, showing the day, weather icon, and night/day temperatures.
+<ol>
+<li>The Weather App will display the current time, date, and weather information.</li>
+<li>The current weather icon and temperature are shown for the current day.</li>
+<li>A 5-day weather forecast is displayed, showing the day, weather icon, and night/day temperatures.</li>
+</ol>
 
 # Dependencies
 The Weather App relies on the following external libraries:
@@ -41,7 +38,8 @@ The Weather App relies on the following external libraries:
 Moment.js - A JavaScript date library for parsing, validating, manipulating, and formatting dates.
 Make sure you have an internet connection to load the Moment.js library from the CDN.
 
-# License
-This Weather App is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+# Contact Information
+To get in touch E-MAIL me on todongoonditi@gmail.com
 
-Enjoy using the Weather App! If you have any questions or feedback, please open an issue or contact the maintainer.
+# License
+This Weather App is licensed under the MIT License. 
