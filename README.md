@@ -21,7 +21,7 @@ To use the Weather App, follow these steps:
 # BDD
 Below is the Landing page 
 
-<img src="src/assets/lP.jpg" alt="Github Search" width="400"/>
+<img src="images/weatherapp.jpg" alt="Github Search" width="400"/>
 
 # Live link: https://timonditi.github.io/weatherapp/
 
